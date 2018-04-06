@@ -16,18 +16,17 @@ Work will be continuing in this area on iterating attribute metadata standards a
 
 * [Attributes glossary](https://docs.google.com/document/d/1B4IjNFzOl-XvLIOIKQS8wT2MtLUhhCMDDZR8cVBAilI): key terms related to attributes as understood and used by GDS attributes and standards teams.
 * [Privacy and system design principles for an attributes ecosystem](https://docs.google.com/document/d/1830RfMqp4xrY7bXk_FbcHD9cIOpkHIqxP-0x5YYyNgo)
-* [User research findings: Private sector](https://docs.google.com/presentation/d/1BjJzap0yYV6IquwiAXnxl4PJwz_DfuwHXTG2ws2Hgl8)
-* [User research findings: Public sector data authorities (round 2)](https://docs.google.com/presentation/d/1TAdVEneT1KdGEthNkExBy19oxBK6V4FN8kb7Vy6JbNQ)
-* [User research findings: User types in attributes, with pain points](https://docs.google.com/document/d/1x7XvKzQAL6TeGuyamGVZ6ConWJ593Li5fsrK9noPy-I)
+* [User research findings: Private sector](https://drive.google.com/file/d/1mK0bG8RLy9V5lzEt_QpPBFX4WSbKBWhT/view)
+* [User research findings: Public sector data authorities (round 2)](https://drive.google.com/file/d/1Ii_WraeG3yHMAvRVYo4o6tkvGvfoiPwF/view)
+* [User research findings: User types in attributes, with pain points](https://drive.google.com/file/d/1v9rSsSTsOEv-gM1X8W8V3TEPJM7uvfwK/view)
 * [Process map for setting up a data share](https://docs.google.com/drawings/d/1b2byY9jfET9RmcsIFkM7KZZMaquOnbULcSxMqH-5QcQ): diagram showing stages in the process of setting up a data sharing arrangement between a service and data provider.
 
 ### From the Personal Data Exchange product team
 
 * [Blog post](https://dataingovernment.blog.gov.uk/2017/08/25/digital-eligibility-checks-for-service-teams/): high-level description of the Personal Data Exchange mission and work
 * [Benefits map](https://docs.google.com/drawings/d/1oVA15L6uybZGZgbtnehe1Og4wBZXZPJdGmK0Ei14EcY): a diagram of drivers, outputs, changes, benefits, strategic objectives affecting personal data sharing.
-* [User research findings: Service providers: Councils processing Blue Badge applications](https://docs.google.com/presentation/d/1fokC1nVbAn44Z2dPvKkyRnWVXTSt6K1eVBMMTwvB9Qk)
-* [User research findings: Service providers: Office of the Public Guardian and National Health Service](https://docs.google.com/presentation/d/1FvggJ7mmC2l3wo15yBMMsqTY78akD0cg5USrWAe3KZA)
-* [User research findings: Public sector data authorities (round 1)](https://docs.google.com/presentation/d/1AfE4ArFSB3-fNg-IpOVbx1_Y_CQh_AMf0YWCSkJq6_k)
+* [User research findings: Citizens](https://drive.google.com/file/d/1t4qxLk6XNWp5d5pXKOr0-Hh2tE4dx5sH/view)
+* [User research findings: Service providers](https://drive.google.com/file/d/18M4n2OnHAf5TWk4-BqnRk8OScJcbBOrg/view)
 * [An analysis of different technical options for an attributes ecosystem](https://docs.google.com/document/d/1bYxzS5Tmh8cn6WqfERr720JRu7Jax5jLDaiDi82c5Jc): explores technical ideas and trade-offs for building an ecosystem.
 * [Technical specification](https://github.com/alphagov/aquae-specification): technical description of how nodes in a prototype network must interoperate.
 * [Blue Badge prototype](https://blue-badge-demo.cloudapps.digital/v2-b/start-page.html): implementation of a user interface and back-end network for checking Blue Badge eligibility. The code is available [on GitHub](https://github.com/alphagov/blue-badge-demo).
