@@ -14,6 +14,8 @@ The projects listed may also only be partially paused, and work may be underway 
 
 Each project has a page containing an overview and links to its outputs.
 
+* [Attributes (product team)](./projects/attributes.md)
+
 ## Documenting a paused project
 
 First, see the guidance listed on the [paused project Trello board](https://trello.com/b/3KjYQhae/so-your-project-has-been-paused).
