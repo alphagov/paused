@@ -35,7 +35,7 @@ Work will be continuing in this area on iterating attribute metadata standards a
 
 If you have questions about the above documents, you can still get in contact with the following individuals:
 
-* [Eloise Taysom](mailto:eloise.taysom@digital.cabinet-office.gov.uk), product manager
+* [Eloise Taysom](https://twitter.com/eloisetaysom), product manager
 * [Irina Bolychevsky](https://twitter.com/shevski), product manager
 * [Andy Bennett](mailto:andyjpb@register-dynamics.co.uk), technical architect
 * [Simon Worthington](https://twitter.com/51M0NW), technical lead
